@@ -4,6 +4,7 @@
   "description": "The backend of a URL shortener made with Node.js and Express",
   "main": "index.js",
   "scripts": {
+    "start": "npm index.js",
     "dev": "nodemon index.js"
   },
   "author": "Antonio Ortiz <619totti@gmail.com>",
